@@ -1,0 +1,4 @@
+001-0753c00	TKD 11-0445a	buddhist/K-koreana/11-tif/0400-0499/11_0445_A.TIF
+001-0754a24	TKD 11-0445b	buddhist/K-koreana/11-tif/0400-0499/11_0445_B.TIF
+001-0754b12	TKD 11-0445c	buddhist/K-koreana/11-tif/0400-0499/11_0445_C.TIF
+001-0754b00	T 001-0754b	buddhist/T-taisho/T17/07/T17-0754.png
