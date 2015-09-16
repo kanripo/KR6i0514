@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說犢子經
+#+DATE: 2015-08-30 20:21:23.917726
+#+PROPERTY: JUAN 0
